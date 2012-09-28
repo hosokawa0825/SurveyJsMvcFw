@@ -33,7 +33,7 @@ How to use
 ------
 1.Install node.js.  
 2.Exec this command.  
-`git https://github.com/hosokawa0825/SurveyJsMvcFw.git`  
+`git clone https://github.com/hosokawa0825/SurveyJsMvcFw.git`  
 `cd SurveyJsMvcFw`  
 `node main.js`  
 3.Then, result output to stdout. like this.  
